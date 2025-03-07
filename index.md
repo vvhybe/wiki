@@ -20,6 +20,6 @@ hellow rold
 
 [Learn Nuxt.js](Nuxt.md)
 
-[Learning](./learning/)
+[Learning](./learning/index.md)
 
 
