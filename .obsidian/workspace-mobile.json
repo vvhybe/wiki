@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wishlist/Ultrapc – Full PC Build Order Report.md",
+                "file": "wishlist/📝 PC Build & Budget Analysis (March 2025).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ultrapc – Full PC Build Order Report"
+              "title": "📝 PC Build & Budget Analysis (March 2025)"
             }
           }
         ],
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "wishlist/Ultrapc – Full PC Build Order Report.md",
+            "file": "wishlist/📝 PC Build & Budget Analysis (March 2025).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,8 +170,8 @@
   },
   "active": "d1012d3ebe4782a4",
   "lastOpenFiles": [
-    "wishlist/📝 PC Build & Budget Analysis (March 2025).md",
     "wishlist/Ultrapc – Full PC Build Order Report.md",
+    "wishlist/📝 PC Build & Budget Analysis (March 2025).md",
     "wishlist",
     "index.md",
     "learning/index.md",
