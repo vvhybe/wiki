@@ -46,7 +46,7 @@ Create custom profiles as needed.
 
 3. Window Manager (Hyperland)
 
-[ ] Installation
+- [  ] Installation
 
 Add Hyperland to your NixOS configuration.
 
