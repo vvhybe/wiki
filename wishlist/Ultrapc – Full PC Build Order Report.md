@@ -1,5 +1,5 @@
 **Reference:** UPC-MONTAGE  
-**Date:** [Insert Date]
+**Date:** Date
 
 ---
 
