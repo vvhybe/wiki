@@ -1,0 +1,4 @@
+- [x] Pc Setup ; 8746.54MAD
+- [ ] Ultrawide Monitor
+- [ ] Pc Desk
+- [ ] Car Driving License 🪪 
