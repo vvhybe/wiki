@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/javascript-frameworks/nest/step-01-Introduction-to-NestJS/README.md",
+                "file": "wishlist/📝 PC Build & Budget Analysis (March 2025).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "📝 PC Build & Budget Analysis (March 2025)"
             }
           }
         ],
@@ -170,6 +170,7 @@
   },
   "active": "d1012d3ebe4782a4",
   "lastOpenFiles": [
+    "learning/javascript-frameworks/nest/step-01-Introduction-to-NestJS/README.md",
     "wishlist/📝 PC Build & Budget Analysis (March 2025).md",
     "NixOS Minimal Setup Guid.md",
     "wishlist/Ultrapc – Full PC Build Order Report.md",
