@@ -1,3 +1,0 @@
-# Learn Nuxt.js
-
-
