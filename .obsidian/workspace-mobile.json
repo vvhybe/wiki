@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wishlist/Ultrapc – Full PC Build Order Report.md",
+                "file": "learning/linux/nixos/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ultrapc – Full PC Build Order Report"
+              "title": "index"
             }
           }
         ]
@@ -155,6 +155,10 @@
   },
   "active": "43b26a23a385e21b",
   "lastOpenFiles": [
+    "learning/linux/nixos/nix-flakes.md",
+    "learning/linux/nixos/index.md",
+    "learning/linux/nixos/NixOS Minimal Setup Guid.md",
+    "wishlist/Ultrapc – Full PC Build Order Report.md",
     "learning/javascript-frameworks/nestjs/01-introduction.md",
     "index.md",
     "Wishlist.md",
@@ -163,12 +167,10 @@
     "Ultrapc – Full PC Build Order Report.md",
     "] ; 8746.54MAD.md",
     "Untitled.md",
-    "wishlist/Ultrapc – Full PC Build Order Report.md",
     "wishlist/📝 PC Build & Budget Analysis (March 2025).md",
     "learning/javascript-frameworks/nest/NestJS Learning Repository.md",
     "learning/javascript-frameworks/index.md",
     "learning/javascript-frameworks/nest/step-01-Introduction-to-NestJS/README.md",
-    "NixOS Minimal Setup Guid.md",
     "wishlist",
     "learning/index.md"
   ]
