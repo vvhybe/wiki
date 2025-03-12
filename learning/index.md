@@ -2,5 +2,9 @@
 
 Contains all the learning resources, for my self-development and for sharing with others.
 
-- [Programming Languages](./programming-languages/)
-- [JavaScript Frameworks](./javascript-frameworks/)
+## OS
+- [Linux](./linux/index.md)
+
+## Code
+- [Programming Languages](./programming-languages/index.md)
+- [JavaScript Frameworks](./javascript-frameworks/index.md)
