@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/linux/nixos/index.md",
+                "file": "learning/linux/nixos/NixOS Minimal Setup Guid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "NixOS Minimal Setup Guid"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "index.md",
+            "file": "learning/linux/nixos/NixOS Minimal Setup Guid.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",

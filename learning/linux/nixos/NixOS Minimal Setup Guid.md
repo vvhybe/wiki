@@ -46,12 +46,12 @@ Create custom profiles as needed.
 
 3. Window Manager (Hyperland)
 
-- [  ] Installation
+- [ ] Installation
 
 Add Hyperland to your NixOS configuration.
 
 
-[ ] Configuration
+- [ ] Configuration
 
 Define keybindings, layouts, and other settings.
 
@@ -61,12 +61,12 @@ Integrate with the session manager to start Hyperland automatically.
 
 4. Shell (nushell)
 
-[ ] Installation
+- [ ] Installation
 
 Install nushell via the Nix package manager.
 
 
-[ ] Configuration
+- [ ] Configuration
 
 Edit the nushell configuration file (typically config.nu).
 
@@ -76,12 +76,12 @@ Set nushell as the default shell for your user.
 
 5. Development Tools
 
-[ ] Node.js
+- [ ] Node.js
 
 Install via the Nix package (nodejs).
 
 
-[ ] Docker
+- [ ] Docker
 
 Install Docker and add your user to the Docker group.
 
@@ -91,13 +91,13 @@ Test Docker installation with a simple container run.
 
 6. Utility Tools
 
-[ ] bat: Install for enhanced file viewing with syntax highlighting.
+- [ ] bat: Install for enhanced file viewing with syntax highlighting.
 
-[ ] eza: Replace traditional ls with eza for a modern file listing.
+- [ ] eza: Replace traditional ls with eza for a modern file listing.
 
-[ ] broot: Install for efficient filesystem navigation.
+- [ ] broot: Install for efficient filesystem navigation.
 
-[ ] btop: Install for system resource monitoring.
+- [ ] btop: Install for system resource monitoring.
 
 [ ] zoxide: Install for faster directory jumping.
 
