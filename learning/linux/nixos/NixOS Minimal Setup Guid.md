@@ -22,9 +22,9 @@ This note outlines the tasks required to set up my NixOS environment with a focu
 - [ ] **Install NixOS**  
   Follow the official [NixOS installation guide](https://nixos.org/manual/nixos/stable/#sec-installation).
 - [ ] **Configure `/etc/nixos/configuration.nix`**  
-  - [ ] Enable basic services (network, firewall, etc.)
-  - [ ] Set up user accounts and permissions.
-  - [ ] Configure system options (time zone, locale, etc.)
+    - [ ] Enable basic services (network, firewall, etc.)
+    - [ ] Set up user accounts and permissions.
+    - [ ] Configure system options (time zone, locale, etc.)
 - [ ] **Rebuild and switch to the new configuration:**  
 ```bash
   sudo nixos-rebuild switch
@@ -99,35 +99,35 @@ Test Docker installation with a simple container run.
 
 - [ ] btop: Install for system resource monitoring.
 
-[ ] zoxide: Install for faster directory jumping.
+- [ ] zoxide: Install for faster directory jumping.
 
-[ ] yazi & rager: Verify if these tools meet your workflow needs; configure as required.
+- [ ] yazi & rager: Verify if these tools meet your workflow needs; configure as required.
 
-[ ] rofi: Set up as the application launcher.
+- [ ] rofi: Set up as the application launcher.
 
-[ ] dunst: Configure dunst for managing desktop notifications.
+- [ ] dunst: Configure dunst for managing desktop notifications.
 
 
 7. Git Utilities
 
-[ ] lazygit: Install for a terminal-based git interface.
+- [ ] lazygit: Install for a terminal-based git interface.
 
-[ ] lazydocker: Install for managing Docker containers in a terminal UI.
+- [ ] lazydocker: Install for managing Docker containers in a terminal UI.
 
 
 8. Editor (Neovim with NVChad)
 
-[ ] Neovim:
+- [ ] Neovim:
 
 Install Neovim using Nix.
 
 
-[ ] NVChad:
+- [ ] NVChad:
 
 Clone and configure NVChad as your Neovim configuration.
 
 
-[ ] Plugin & LSP Setup:
+- [ ] Plugin & LSP Setup:
 
 Set up language servers, plugins, and additional configurations to suit your development needs.
 
@@ -135,7 +135,7 @@ Set up language servers, plugins, and additional configurations to suit your dev
 
 9. Optional Enhancements
 
-[ ] Pomodoro Timer:
+- [ ] Pomodoro Timer:
 
 Install a Pomodoro timer such as Pomotroid for productivity.
 
