@@ -140,17 +140,17 @@ Set up language servers, plugins, and additional configurations to suit your dev
 Install a Pomodoro timer such as Pomotroid for productivity.
 
 
-[ ] Status Bar (Optional):
+- [ ] Status Bar (Optional):
 
 Consider a minimal status bar (e.g., Polybar) if you want extra visual feedback.
 
 
-[ ] Dotfiles Management:
+- [ ] Dotfiles Management:
 
 Create a Git repository for all your configuration files to track changes and simplify migrations.
 
 
-[ ] System Backup:
+- [ ] System Backup:
 
 Regularly backup your configuration files and custom scripts.
 
