@@ -1,8 +1,3 @@
----
-
-### `display-protocols.md`
-
-```markdown
 # 🖥️ Display Protocols: Xserver vs Wayland
 
 ## Overview
@@ -72,3 +67,4 @@ In NixOS, you can configure your display protocol in `configuration.nix`:
 ```nix
 services.xserver.enable = true; # For Xserver
 services.wayland.enable = true; # For Wayland
+```
