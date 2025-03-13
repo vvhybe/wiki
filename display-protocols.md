@@ -68,3 +68,11 @@ In NixOS, you can configure your display protocol in `configuration.nix`:
 services.xserver.enable = true; # For Xserver
 services.wayland.enable = true; # For Wayland
 ```
+
+---
+## Resources
+- [X.org Documentation](https://www.x.org/wiki/)
+- [Wayland Project](https://wayland.freedesktop.org/)
+- [[../nix-flakes]] (For managing display-related dependencies)
+
+#display-protocols #xserver #wayland #nixos
