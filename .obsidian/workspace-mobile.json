@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "display-protocols.md",
+                "file": "wishlist/📝 PC Build & Budget Analysis (March 2025).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "display-protocols"
+              "title": "📝 PC Build & Budget Analysis (March 2025)"
             }
           }
         ],
@@ -170,8 +170,8 @@
   },
   "active": "9f09f73c3434220b",
   "lastOpenFiles": [
-    "learning/linux/nixos/NixOS Minimal Setup Guid.md",
     "display-protocols.md",
+    "learning/linux/nixos/NixOS Minimal Setup Guid.md",
     "learning/linux/nixos/nix-flakes.md",
     "learning/linux/nixos/index.md",
     "wishlist/Ultrapc – Full PC Build Order Report.md",
