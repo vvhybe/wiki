@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wishlist/📝 PC Build & Budget Analysis (March 2025).md",
+                "file": "learning/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📝 PC Build & Budget Analysis (March 2025)"
+              "title": "index"
             }
           }
         ],
@@ -170,6 +170,7 @@
   },
   "active": "9f09f73c3434220b",
   "lastOpenFiles": [
+    "wishlist/📝 PC Build & Budget Analysis (March 2025).md",
     "display-protocols.md",
     "learning/linux/nixos/NixOS Minimal Setup Guid.md",
     "learning/linux/nixos/nix-flakes.md",
@@ -182,7 +183,6 @@
     "Nuxt.md",
     "Ultrapc – Full PC Build Order Report.md",
     "] ; 8746.54MAD.md",
-    "wishlist/📝 PC Build & Budget Analysis (March 2025).md",
     "learning/javascript-frameworks/nest/NestJS Learning Repository.md",
     "learning/javascript-frameworks/index.md",
     "learning/javascript-frameworks/nest/step-01-Introduction-to-NestJS/README.md",
