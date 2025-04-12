@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat sheets.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheat sheets"
+              "title": "index"
             }
           }
         ],
@@ -184,8 +184,8 @@
   },
   "active": "c2d3a4898eee7913",
   "lastOpenFiles": [
-    "learning/index.md",
     "Cheat sheets.md",
+    "learning/index.md",
     "wishlist/📝 PC Build & Budget Analysis (March 2025).md",
     "display-protocols.md",
     "learning/linux/nixos/NixOS Minimal Setup Guid.md",
