@@ -1,5 +1,3 @@
-# Financial Analysis Framework: From Question to Roadmap
-
 ## Step 1: Question Deconstruction
 **Break down the core question into components:**
 - What is the financial goal? (house + vehicle)
